@@ -1,2 +1,2 @@
 # CISC106 Project 1
-3 Card Poker in Python
+Greatest Python Program Ever Created (Patent Pending)
